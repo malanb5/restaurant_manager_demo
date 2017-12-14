@@ -1,7 +1,6 @@
 # ShopMe
-A simple demo catalog web application with Google OAuth 2.0
-query data using an SQL database
-API JSON endpoints for all catalog data
+
+Developed a content management system using the Flask framework in Python. Authentication is provided via OAuth and all data is stored within a PostgreSQL database.  Created API JSON endpoints for all catalog data.
 
 Matt Bladek
 
