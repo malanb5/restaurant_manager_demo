@@ -1,6 +1,6 @@
 # ShopMe
-A simple demo catalog web application with Google OAuth
-Store and query data using an SQL database
+A simple demo catalog web application with Google OAuth 2.0
+query data using an SQL database
 API JSON endpoints for all catalog data
 
 Matt Bladek
