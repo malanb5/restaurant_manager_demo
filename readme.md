@@ -2,13 +2,9 @@
 
 Developed a content management system using the Flask framework in Python. Authentication is provided via OAuth and all data is stored within a PostgreSQL database.  Created API JSON endpoints for all catalog data.
 
-Matt Bladek
-
-
 ## Dependencies of Software and Libraries Used
 The application was developed using Vagrant 2.0.1 and Virtual Box virtual environment 2.3.5
 virtualizing Ubuntu 16.04-i386
-
 
 * Python 2.7.11
 	* SQLite 3.9.2
